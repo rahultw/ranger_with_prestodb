@@ -1,0 +1,51 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2021-06-01T14:24:05+05:30
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 14
+
+Apache Licensed: 14
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/pom.xml
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/scripts/install.properties
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-ozone-security-changes.cfg
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-ozone-audit-changes.cfg
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-policymgr-ssl-changes.cfg
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ozone-ranger-env.sh
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-ozone-security.xml
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-ozone-audit.xml
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/conf/ranger-policymgr-ssl.xml
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/src/main/java/org/apache/ranger/authorization/ozone/authorizer/RangerOzoneAuthorizer.java
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/src/main/java/org/apache/ranger/services/ozone/RangerServiceOzone.java
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/src/main/java/org/apache/ranger/services/ozone/client/OzoneConnectionMgr.java
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/src/main/java/org/apache/ranger/services/ozone/client/OzoneResourceMgr.java
+  AL    /Users/rahulmadaan/project/ranger/plugin-ozone/src/main/java/org/apache/ranger/services/ozone/client/OzoneClient.java
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

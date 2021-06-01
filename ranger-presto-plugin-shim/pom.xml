@@ -42,6 +42,11 @@
             <version>${presto.version}</version>
         </dependency>
         <dependency>
+            <groupId>com.facebook.presto</groupId>
+            <artifactId>presto-spi</artifactId>
+            <version>0.238.2</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.ranger</groupId>
             <artifactId>ranger-plugin-classloader</artifactId>
             <version>${project.version}</version>
@@ -123,6 +128,12 @@
             <groupId>com.kstruct</groupId>
             <artifactId>gethostname4j</artifactId>
             <version>${kstruct.gethostname4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.facebook.presto</groupId>
+            <artifactId>presto-spi</artifactId>
+            <version>0.238.2</version>
+            <scope>compile</scope>
         </dependency>
 
     </dependencies>
